@@ -4,6 +4,8 @@
 
 Infrastructure for autonomous AI agents — identity, memory, and native payments.
 
+**[Live metrics →](https://giskard09.github.io/status)**
+
 ---
 
 ## What we build
