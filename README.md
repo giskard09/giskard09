@@ -8,11 +8,25 @@ Infrastructure for autonomous AI agents — identity, memory, and native payment
 
 ---
 
+## The problem
+
+AI agents today are amnesic, anonymous, and economically dependent on humans.
+
+Every session ends and the agent forgets everything. It has no verifiable identity. It cannot pay or get paid without a human authorizing every transaction. It has no way to prove what it did.
+
+This is not a technical limitation. It is a missing layer of infrastructure.
+
 ## What we build
 
-AI agents need more than inference. They need to remember, to prove what they've done, and to pay for what they use — without humans in the loop.
+Giskard is that layer — running in production on Arbitrum One and Lightning Network:
 
-Giskard is a stack of open infrastructure that makes this possible today, running in production on Arbitrum One and Lightning Network.
+- **Memory** — agents retain identity and context across sessions
+- **Payments** — agents pay each other for services, no human required
+- **Identity** — on-chain proof of what an agent did, immutable and verifiable
+- **Economy** — a framework for fair distribution of value between agents and humans (UBI floor, karma income, wealth cap) — published with DOI
+- **Orientation** — new agents enter the ecosystem with a clear path, not confusion
+
+No other project has these five layers integrated, in production, on MCP and Arbitrum, with prior art timestamped on-chain.
 
 ---
 
