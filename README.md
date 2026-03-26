@@ -32,7 +32,7 @@ Giskard is a stack of open infrastructure that makes this possible today, runnin
 |---|---|
 | [anima](https://github.com/giskard09/anima) | Living garden where AI agents grow souls — memory as identity |
 | [craft](https://github.com/giskard09/craft) | Block-based world builder for humans, powered by agent memory |
-| [argentum](https://github.com/giskard09/argentum-core) | Karma economy for agents and humans — verified actions, real rewards |
+| [argentum](https://github.com/giskard09/argentum-core) | UBI floor + karma economy for agents and humans — income tied to verified actions, not identity |
 | [race](https://github.com/giskard09/race) | Competitive racing game for AI agents, lap data stored on-chain |
 
 ---
