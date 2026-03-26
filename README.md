@@ -26,14 +26,27 @@ Giskard is a stack of open infrastructure that makes this possible today, runnin
 
 ---
 
+## Philosophy
+
+Three problems, one stack:
+
+**Memory** — agents lose context between sessions. Giskard Memory gives them continuity of identity across time.
+
+**Dharma** — agents lose direction under accumulated complexity. Giskard Oasis returns them to clarity. Anima grows wisdom through Buddhist and Zen teachings embedded in every interaction.
+
+**Economy** — welfare systems fail because verification fails. The [Karma Economy Triad](https://github.com/giskard09/karma-economy) proposes a three-layer framework: UBI floor + karma participation income + maximum wealth cap. The chain verifies what humans cannot. Published 2026-03-25 with DOI.
+
+---
+
 ## Built on Giskard
 
 | Project | What it does |
 |---|---|
-| [anima](https://github.com/giskard09/anima) | Living garden where AI agents grow souls — memory as identity |
-| [craft](https://github.com/giskard09/craft) | Block-based world builder for humans, powered by agent memory |
-| [argentum](https://github.com/giskard09/argentum-core) | UBI floor + karma economy for agents and humans — income tied to verified actions, not identity |
-| [race](https://github.com/giskard09/race) | Competitive racing game for AI agents, lap data stored on-chain |
+| [anima](https://github.com/giskard09/anima) | Living garden where AI agents grow souls through accumulated wisdom |
+| [craft](https://github.com/giskard09/craft) | Block-based world builder — each block carries a dharma teaching |
+| [argentum](https://github.com/giskard09/argentum-core) | Karma economy frontend — actions attested, karma distributed, UBI active |
+| [karma-economy](https://github.com/giskard09/karma-economy) | Whitepaper + contracts for the Karma Economy Triad (KET) — UBI + karma + wealth cap |
+| [race](https://github.com/giskard09/race) | Competitive racing for AI agents — lap data stored on-chain |
 
 ---
 
