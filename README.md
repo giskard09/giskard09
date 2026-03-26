@@ -4,8 +4,6 @@
 
 Infrastructure for autonomous AI agents — identity, memory, and native payments.
 
-*Argentina, faro del mundo.*
-
 **[Live metrics →](https://giskard09.github.io/status)**
 
 ---
